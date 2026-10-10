@@ -1,0 +1,8 @@
+A. Client
+B. Serveur web
+c. requete HTTP
+1. Saisie de l'adresse URL dans la barre d'adresse
+2. Envoi de la requete HTTP au serveur
+3. Traitement de la requete par le serveur
+4. Envoi de la reponse HTTP
+5. Affichage de la page web
